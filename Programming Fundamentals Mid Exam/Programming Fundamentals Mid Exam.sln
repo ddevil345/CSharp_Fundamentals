@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giftbox Coverage", "Giftbox Coverage\Giftbox Coverage.csproj", "{E9CA9DF0-D54E-43F5-A90F-58581E409391}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Giftbox Coverage", "Giftbox Coverage\Giftbox Coverage.csproj", "{E9CA9DF0-D54E-43F5-A90F-58581E409391}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks Planner", "Tasks Planner\Tasks Planner.csproj", "{09C095BA-E8FC-4BA5-A109-F77AA2DB1A06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tasks Planner", "Tasks Planner\Tasks Planner.csproj", "{09C095BA-E8FC-4BA5-A109-F77AA2DB1A06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Froggy Squad", "Froggy Squad\Froggy Squad.csproj", "{00CC2B12-BF91-4EA1-91F1-31D12EB522CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Froggy Squad", "Froggy Squad\Froggy Squad.csproj", "{00CC2B12-BF91-4EA1-91F1-31D12EB522CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Disneyland Journey", "01. Disneyland Journey\01. Disneyland Journey.csproj", "{53035972-7A2A-4079-9FBD-DF8046D4A768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Archery Tournament", "02. Archery Tournament\02. Archery Tournament.csproj", "{2E04F1D7-B3AB-4357-82D9-65D4D3671B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. School Library", "03. School Library\03. School Library.csproj", "{CD0F64ED-657E-4ADD-8280-022062647B36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{00CC2B12-BF91-4EA1-91F1-31D12EB522CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00CC2B12-BF91-4EA1-91F1-31D12EB522CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00CC2B12-BF91-4EA1-91F1-31D12EB522CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53035972-7A2A-4079-9FBD-DF8046D4A768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53035972-7A2A-4079-9FBD-DF8046D4A768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53035972-7A2A-4079-9FBD-DF8046D4A768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53035972-7A2A-4079-9FBD-DF8046D4A768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E04F1D7-B3AB-4357-82D9-65D4D3671B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E04F1D7-B3AB-4357-82D9-65D4D3671B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E04F1D7-B3AB-4357-82D9-65D4D3671B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E04F1D7-B3AB-4357-82D9-65D4D3671B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD0F64ED-657E-4ADD-8280-022062647B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0F64ED-657E-4ADD-8280-022062647B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0F64ED-657E-4ADD-8280-022062647B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0F64ED-657E-4ADD-8280-022062647B36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
