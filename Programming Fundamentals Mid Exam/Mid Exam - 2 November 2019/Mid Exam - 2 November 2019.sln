@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Tanks Collector", "03. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Experience Gaining", "01. Experience Gaining\01. Experience Gaining.csproj", "{A7EADB4B-99CB-44E9-A692-E2BE77AB4CE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Biscuits Factory", "01. Biscuits Factory\01. Biscuits Factory.csproj", "{5140FB6D-E8D0-4CC0-B007-AF0769A24796}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Biscuits Factory", "01. Biscuits Factory\01. Biscuits Factory.csproj", "{5140FB6D-E8D0-4CC0-B007-AF0769A24796}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Weaponsmith", "02. Weaponsmith\02. Weaponsmith.csproj", "{B26F97E5-5108-4D4B-B12F-0F9EC63FDD22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Weaponsmith", "02. Weaponsmith\02. Weaponsmith.csproj", "{B26F97E5-5108-4D4B-B12F-0F9EC63FDD22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello", "ConsoleApp1\hello.csproj", "{E1C421E9-6428-44A3-9D9A-96B5DE4A7C0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B26F97E5-5108-4D4B-B12F-0F9EC63FDD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B26F97E5-5108-4D4B-B12F-0F9EC63FDD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B26F97E5-5108-4D4B-B12F-0F9EC63FDD22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C421E9-6428-44A3-9D9A-96B5DE4A7C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C421E9-6428-44A3-9D9A-96B5DE4A7C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C421E9-6428-44A3-9D9A-96B5DE4A7C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C421E9-6428-44A3-9D9A-96B5DE4A7C0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
