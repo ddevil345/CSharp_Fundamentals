@@ -43,7 +43,7 @@ namespace _02._Weaponsmith
                         else if (arr[1] == "Right")
                         {
                             int index1 = int.Parse(arr[2]);
-                            if (index1 >= 0 && index1 < weapons.Count -2)
+                            if (index1 >= 0 && index1 < weapons.Count -1)
                             {
                                 int index2 = index1 + 1;
                                 string leftItem = weapons[index2];
